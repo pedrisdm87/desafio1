@@ -1,0 +1,18 @@
+header {
+  text-decoration: none;
+  display: flex;
+  flex-direction: inline;
+}
+
+ul {
+  display: flex;
+  flex-direction: inline;
+  gap: 2rem;
+}
+
+li {
+  display: flex;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=styles.css.map */

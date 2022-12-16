@@ -1,4 +1,11 @@
-h1{
-    color: red;
-    background-color: blueviolet;
+header { 
+    text-decoration: none;
+    display: flex;
+    flex-direction: inline;
+   
 }
+ul{
+    display: flex;
+    flex-direction: inline;
+    gap: 2rem;
+    }
