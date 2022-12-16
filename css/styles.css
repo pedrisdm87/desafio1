@@ -1,18 +1,16 @@
 header {
-  text-decoration: none;
   display: flex;
-  flex-direction: inline;
-}
-
-ul {
-  display: flex;
-  flex-direction: inline;
-  gap: 2rem;
+  gap: 15rem;
 }
 
 li {
-  display: flex;
+  display: inline;
   text-decoration: none;
+  gap: 2rem;
+}
+
+h1 {
+  font-size: 5rem;
 }
 
 /*# sourceMappingURL=styles.css.map */
